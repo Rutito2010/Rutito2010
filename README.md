@@ -5,6 +5,7 @@ I developed on my own a Food App that you can check in my public repositories. N
 
 i'm currently capable of using this techs:
 
+<ul>
     -JavaScript 
 
     -React 
@@ -24,8 +25,12 @@ i'm currently capable of using this techs:
     -HTML 
 
     -CSS 
+    
+    </ul>
+
 
 Find me in here! 
+
 <a href=`https://www.linkedin.com/in/passaliaivan/`> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" "heith"="150" "weidth" ="150"></img></a>
     or send me a message
 <a>https://t.me/Rutito2010</a>

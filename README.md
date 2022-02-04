@@ -5,47 +5,37 @@ I developed on my own a Food App that you can check in my public repositories. N
 
 i'm currently capable of using this techs:
 
-<ul>
+
     -JavaScript 
+
+    -React 
+
+    -Redux
+
+    -PGAdmin 
+
+    -PostgreSQL 
+
+    -Express 
     
-    </ul>
+    -Sequelize 
 
-<ul>
-    -React </ul>
+    -Node JS 
 
-<ul>
-    -Redux </ul>
+    -HTML 
 
-<ul>
-    -PGAdmin </ul>
-
-<ul>
-    -PostgreSQL </ul>
-
-<ul>
-    -Express </ul>
-
-<ul>
-    -Sequelize </ul>
-
-<ul>
-    -Node JS </ul>
-
-<ul>
-    -HTML </ul>
-
-<ul>
     -CSS 
     
-    </ul>
+   
 
 
-Find me in here! 
-<a href="https://www.linkedin.com/in/passaliaivan/"> 
+<h3>Find me in here! </h3>
+
+    <a href="https://www.linkedin.com/in/passaliaivan/"> 
 <img src='http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png' height='100' width='100' alt='LinkedIn'/> 
 </a>
 
-    or send me a message
+    <h3> or send me a message</h3>
     <a href="https://wa.me/5491161063376"> 
 <img src='https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN' height='100' width='100' alt='LinkedIn'/> 
 </a><a href="https://t.me/Rutito2010"> 

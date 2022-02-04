@@ -18,7 +18,7 @@
    
 
 
-<h3>Find me in here! </h3>
+
 <h3> Find me in here! </h3>
 
 <a href="https://www.linkedin.com/in/passaliaivan/"> 

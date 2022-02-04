@@ -26,3 +26,7 @@ i'm currently capable of using this techs:
     -CSS 
 
 Find me in here! 
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"><a>https://www.linkedin.com/in/passaliaivan/</a></img>
+    or send me a message
+<a>https://t.me/Rutito2010</a>
+<a>https://wa.me/5491161063376</a>

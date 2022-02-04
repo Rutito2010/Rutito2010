@@ -7,23 +7,34 @@ i'm currently capable of using this techs:
 
 <ul>
     -JavaScript 
+    
+    </ul>
 
-    -React 
+<ul>
+    -React </ul>
 
-    -Redux 
+<ul>
+    -Redux </ul>
 
-    -PGAdmin 
+<ul>
+    -PGAdmin </ul>
 
-    -PostgreSQL 
+<ul>
+    -PostgreSQL </ul>
 
-    -Express 
+<ul>
+    -Express </ul>
 
-    -Sequelize 
+<ul>
+    -Sequelize </ul>
 
-    -Node JS 
+<ul>
+    -Node JS </ul>
 
-    -HTML 
+<ul>
+    -HTML </ul>
 
+<ul>
     -CSS 
     
     </ul>

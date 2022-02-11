@@ -6,6 +6,7 @@
 <p> i'm currently capable of using this techs:</p>
 
 <ul> -JavaScript </ul>
+<ul> -TypeScript </ul>
 <ul> -React </ul>
 <ul> -Redux </ul>
 <ul> -PGAdmin </ul>

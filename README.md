@@ -16,6 +16,7 @@
 <ul> -Node JS </ul>
 <ul> -HTML </ul>
 <ul> -CSS </ul>
+<ul> -GraphQl </ul>
    
 
 

@@ -1,7 +1,7 @@
 
-<h3> I'm a programming student, currently studyng for being Full Stack Developer with a orietation to Back-End Developer. </h3>
+<h3>I'm a full stack developer, trying to specialize in Backend Development</h3>
 
-<p> I developed on my own a Food App that you can check in my public repositories. Now i'm working in a new group proyect in which we are applying the SCRUM methodology. I cant wait for finish it and release it here! It'll be soon!</p>
+<p> Im currently studyng java Backend Developement with SpringBoot.</p>
 
 <p> i'm currently capable of using this techs:</p>
 

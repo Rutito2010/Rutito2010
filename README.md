@@ -9,7 +9,6 @@
 <ul> -TypeScript </ul>
 <ul> -Java (MVN)</ul>
 <ul> -SpringBoot </ul>
-<ul> - </ul>
 <ul> -React </ul>
 <ul> -Redux </ul>
 <ul> -PGAdmin </ul>
@@ -19,7 +18,7 @@
 <ul> -Node JS </ul>
 <ul> -HTML </ul>
 <ul> -CSS </ul>
-<ul> -GraphQl </ul>
+
    
 
 

@@ -39,6 +39,6 @@
 </a>
 
 <a href="https://t.me/Rutito2010"> 
-<img src='https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/05/Telegram-Logo-Blue.jpg?resize=1200%2C800&ssl=1' height='100' width='100' alt='LinkedIn'/> 
+<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' height='100' width='100' alt='LinkedIn'/> 
 </a>
 

@@ -37,8 +37,5 @@
    <a href="https://wa.me/5491161063376"> 
 <img src='https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN' height='100' width='100' alt='LinkedIn'/> 
 </a>
-
-<a href="https://t.me/Rutito2010"> 
-<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' height='100' width='100' alt='LinkedIn'/> 
 </a>
 

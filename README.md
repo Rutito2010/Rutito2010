@@ -1,5 +1,7 @@
 
-<h3>I'm a full stack developer, trying to specialize in Backend Development</h3>
+<h3>I'm a Backend Developer!!</h3>
+
+<p> Im currently working on DigiChanges with nodejs, Koa, typescript, mongo, docker and a lot of new tools!.</p>
 
 <p> Im currently studyng java Backend Developement with SpringBoot.</p>
 
@@ -15,6 +17,7 @@
 <ul> -PostgreSQL </ul>
 <ul> -KOA </ul>
 <ul> -Express </ul>
+<ul> -Strapi </ul>
 <ul> -Sequelize </ul>
 <ul> -Node JS </ul>
 <ul> -HTML </ul>

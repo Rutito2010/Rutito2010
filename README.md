@@ -13,6 +13,7 @@
 <ul> -Redux </ul>
 <ul> -PGAdmin </ul>
 <ul> -PostgreSQL </ul>
+<ul> -KOA </ul>
 <ul> -Express </ul>
 <ul> -Sequelize </ul>
 <ul> -Node JS </ul>

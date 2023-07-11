@@ -3,8 +3,6 @@
 
 <p> Im currently working on DigiChanges with nodejs, Koa, typescript, mongo, docker and a lot of new tools!.</p>
 
-<p> Im currently studyng java Backend Developement with SpringBoot.</p>
-
 <p> i'm currently capable of using this techs:</p>
 
 <ul> -JavaScript </ul>
